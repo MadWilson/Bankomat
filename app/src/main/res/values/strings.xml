@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bankomat</string>
+    <string name="button_location_text">Отделения и банкоматы</string>
+    <string name="button_course_text">Курсы валют</string>
+    <string name="usd">USD:</string>
+    <string name="eur">EUR:</string>
+    <string name="login_text">ВОЙТИ</string>
+
+
+
+</resources>
